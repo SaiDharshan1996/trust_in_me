@@ -50,7 +50,7 @@ Some of our products include Cash trading, Margin Product etc..
 
 | First_Name     | Last_Name   | City      |    State     |     Email_Id         |   Mobile       | PinCode  |   Pan_No     |Password|
 | -------------  |-----------| --------|------------|--------------------|--------------|--------|------------|------|  
-|  Thrinath      |  seella     |  Nandyal  |Andhra Pradesh |thrinath@gmail.com    |9581436061      |  518501  |              |        |
-|  Poornima      |   Thota     |   Tenali  |Andhra Pradesh |poornima4dwbi@gmail.com    |9666163164 |  522201  |  AMCPT5127D  |        |
+|  Thrinath      |  seella     |  Nandyal  |Andhra Pradesh |thrinath@gmail.com    |9581436061      |  518501  |              |abc@123|
+|  Poornima      |   Thota     |   Tenali  |Andhra Pradesh |poornima4dwbi@gmail.com    |9666163164 |  522201  |  AMCPT5127D  |test@123|
 
 # Test Cases.
