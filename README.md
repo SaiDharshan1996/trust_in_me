@@ -1,13 +1,49 @@
-# trust_in_me
+# Trust In Me
+
+Its a Stock Trading Project. Trade and Invest in stocks online seamlessly.
+Some of our products include Cash trading, Margin Product etc..
+
 # Requirements.
-1.Home Page
-# Usecases
-1.1 Home Header
-1.2 Footer
-1.3 About Page
-2.1 Login Inputs
-2.2 Login UI
-2.3 Add Users Details Page
+1. Create an Account(User) page.
+2. USer Login Page 
+
+# Use Cases
+
+## I. Create an account
+
+### 1. Brief Description
+      This Use Case describes how a User Sign-Up into the Trust In Me form.
+      
+ ### 2.Flow Of Events
+      The Use Case begins when the User types her/his First Name, Last Name, City, State, Email, 
+      Mobile, Pincode, Pan No and Password on the Sign-Up form.
+      
+   #### 2.1 Basic Flow - SignUP
+      The System receives the User Input fields and takes user details into DataBase, and 
+      takes User in to Login Page.
+      
+   #### 2.2 Alternative Flow - SignUP
+      User Already Exist. 
+      If the User ID is alreaady exists in the Basic flow Signup, the system shows User already exist 
+      try another UserID/MailID/Phonenumber.
+      
+  ## II.User Login
+ 
+ ### 1.Brief Description
+      This Use Case describes how a User Sign-In into the Trust in Me Web Application.
+      
+ ### 2.Flow Of Events
+      The Use Case begins when the User types her/his Userid/mail/phonenumber and Password      
+      on the Login form.
+      
+   #### 2.1 Basic Flow - Login
+      The System validates the user_id and password and logs him/her into the Application and 
+      takes Volunteer in to Planting details form.
+      
+   #### 2.2 Alternative Flow - Login
+      Invalid Username / Password. 
+      If the Userid/mail/phonenumber and Password is incorrect in the Basic flow Signin, the system shows Invalid 
+      Credentials and takes him/her into Login page again.
 # Design
 
 #Tables
