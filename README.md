@@ -5,7 +5,7 @@ Some of our products include Cash trading, Margin Product etc..
 
 # Requirements.
 1. Create an Account(User) page.
-2. USer Login Page 
+2. User Login Page 
 
 # Use Cases
 
@@ -50,6 +50,6 @@ Some of our products include Cash trading, Margin Product etc..
 
 | First_Name     | Last_Name   | City      |    State     |     Email_Id         |   Mobile       | PinCode  |   Pan_No     |Password|
 | -------------  |-----------| --------|------------|--------------------|--------------|--------|------------|------|  
-|  Thrinath      |  seella     |  Nandyal  |AndhraPradesh |thrinath@gmail.com    |9581436061      |  518501  |              |        |
-|  Poornima      |   Thota     |   Tenali  |AndhraPradesh |thrinath@gmail.com    |9581436061      |  522201  |  AMCPT5127D  |        |
+|  Thrinath      |  seella     |  Nandyal  |Andhra Pradesh |thrinath@gmail.com    |9581436061      |  518501  |              |        |
+|  Poornima      |   Thota     |   Tenali  |Andhra Pradesh |poornima4dwbi@gmail.com    |9666163164 |  522201  |  AMCPT5127D  |        |
 
