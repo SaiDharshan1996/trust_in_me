@@ -24,7 +24,7 @@ Some of our products include Cash trading, Margin Product etc..
       
    #### 2.2 Alternative Flow - SignUP
       User Already Exist. 
-      If the User ID is alreaady exists in the Basic flow Signup, the system shows User already exist 
+      If the User ID is already exists in the Basic flow Signup, the system shows User already exist 
       try another UserID/MailID/Phonenumber.
       
   ## II.User Login
@@ -37,8 +37,7 @@ Some of our products include Cash trading, Margin Product etc..
       on the Login form.
       
    #### 2.1 Basic Flow - Login
-      The System validates the user_id and password and logs him/her into the Application and 
-      takes Volunteer in to Planting details form.
+      The System validates the user_id and password and logs him/her into the Application
       
    #### 2.2 Alternative Flow - Login
       Invalid Username / Password. 
@@ -47,10 +46,10 @@ Some of our products include Cash trading, Margin Product etc..
 # Design
 
 #Tables
-1.Users-list-data
+1.Users Table - Structure
 
-| FirstName     | LasttName   | City      |State        |Email                 |Mobile Number   |PinCode   | Pan number   |
-| ------------- |:-----------:| :--------:|------------:|:--------------------:|:--------------:|:--------:|:------------:|
-| Thrinath      |  seella     |Nandyal    |AndhraPradesh|thrinath@gmail.com    |9581436061      |518501    |adjlklm       |
-| col 2 is      | centered    |   $12 |
-| zebra stripes | are neat    |    $1 |
+| First_Name     | Last_Name   | City      |State         |Email_Id              |Mobile          |PinCode   | Pan_No       |
+| -------------  |:-----------:| :--------:|------------: |:--------------------:|:--------------:|:--------:|:------------:|
+| Thrinath       |  seella     |Nandyal    |AndhraPradesh |thrinath@gmail.com    |9581436061      |518501    |adjlklm       |
+| col 2 is       | centered    |   $12     |
+| zebra stripes  | are neat    |    $1     |
