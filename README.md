@@ -48,8 +48,7 @@ Some of our products include Cash trading, Margin Product etc..
 #Tables
 1.Users Table - Structure
 
-| First_Name     | Last_Name   | City      |State         |Email_Id              |Mobile          |PinCode   | Pan_No       |
-| -------------  |:-----------:| :--------:|------------: |:--------------------:|:--------------:|:--------:|:------------:|
-| Thrinath       |  seella     |Nandyal    |AndhraPradesh |thrinath@gmail.com    |9581436061      |518501    |adjlklm       |
-| col 2 is       | centered    |   $12     |
-| zebra stripes  | are neat    |    $1     |
+| First_Name     | Last_Name   | City      |    State     |     Email_Id         |   Mobile       | PinCode  |   Pan_No     |Password|
+| -------------  |:-----------:| :--------:|------------: |:--------------------:|:--------------:|:--------:|:------------:|:------:|  |  Thrinath      |  seella     |  Nandyal  |AndhraPradesh |thrinath@gmail.com    |9581436061      |  518501  |              |        |
+|  Poornima      |   Thota     |   Tenali  |AndhraPradesh |thrinath@gmail.com    |9581436061      |  522201  |  AMCPT5127D  |        |
+
